@@ -63,15 +63,21 @@ Hi 👋 I'm Payal Gurave
 🧩 Projects
 
 🔹 Crowdfunding Web App 
+
 Tech Stack: React, Express, MongoDB,JavaScript, CSS, HTML, Postman
+
 👉 A full-stack application for creating and managing fundraising campaigns.
 
 🔹 Movie Recommender System  
+
 Tech Stack: Python, NLP, Scikit-learn, Pandas, NumPy, TMDb API, Streamlit 
+
 👉 Recommendation system based on user preferences and data analysis.
 
 🔹 Excel Analytics Platform 
+
 Tech Stack: React.js, JavaScript, Excel APIs
+
 👉 Data analysis and reporting tool using Excel datasets.
 
 🌱 Open Source & Learning Goals
