@@ -1,6 +1,7 @@
 Hi 👋 I'm Payal Gurave
 
 🎓 B.E Information Technology 
+
 💻 Aspiring Software Engineer | Open Source Enthusiast  
 🌍 Interested in Web Development, Cloud & Open Source
 
